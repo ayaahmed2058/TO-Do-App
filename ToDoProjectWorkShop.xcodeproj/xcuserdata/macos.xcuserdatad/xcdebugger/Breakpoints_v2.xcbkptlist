@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB4755BB-5F4D-45BD-BE78-1A58C23469AF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DF2CD96-2578-4C50-AB78-98B09A6FA4D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoProjectWorkShop/ToDOViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8DF2CD96-2578-4C50-AB78-98B09A6FA4D8 - 2265c16cb65876b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ToDOViewController tableView:didSelectRowAtIndexPath:]"
+                  moduleName = "ToDoProjectWorkShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macos/Desktop/IOSTasks/ToDoProjectWorkShop/ToDoProjectWorkShop/ToDOViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "8DF2CD96-2578-4C50-AB78-98B09A6FA4D8 - 2265c16cb6587694"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ToDOViewController tableView:didSelectRowAtIndexPath:]"
+                  moduleName = "ToDoProjectWorkShop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macos/Desktop/IOSTasks/ToDoProjectWorkShop/ToDoProjectWorkShop/ToDOViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C40A013D-0A08-42A1-9D25-1E9D14291D6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToDoProjectWorkShop/InProgressViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "-numberOfSectionsInTableView:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
